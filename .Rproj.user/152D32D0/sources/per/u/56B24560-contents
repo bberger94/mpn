@@ -1,2 +1,0 @@
-query = "cancer"
-get_pubmed_ids("cancer")
