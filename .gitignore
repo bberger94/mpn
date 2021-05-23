@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+data/raw/pubmed/xml
+data/intermediate/
